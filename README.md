@@ -42,7 +42,14 @@ These Services do not address anyone under the age of 13. We do not knowingly co
 
 ## Changes to This Privacy Policy
 
-p We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
+## YouTube/Google Privacy Policy
+
+Dev.tube contains data extracted from YouTube API. Related privacy policies:
+
+- https://www.youtube.com/t/terms
+- https://policies.google.com/privacy
 
 ## Contact Us
 
