@@ -12,7 +12,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 For better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to email, first name, last name, contacts. The information that we request is will be retained by us and used as described in this privacy policy.
 
-We use [Yandex Metrica](https://metrica.yandex.com/about/info/privacy-policy) for analytics.
+We use a privacy-friendly software [Plausible](https://plausible.io) for analytics.
 
 ## Cookies
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory. This service uses cookies to improve your UX. This includes authentication, sorting preference, night mode, and resuming video from the last played position. The app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option control cookies in your browser. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
@@ -50,6 +50,8 @@ Dev.tube contains data extracted from YouTube API. Related privacy policies:
 
 - https://www.youtube.com/t/terms
 - https://policies.google.com/privacy
+
+A user may choose to grant DevTube access to their Google/YouTube account. That will let the user comment YouTube videos directly from DevTube.
 
 ## Contact Us
 
